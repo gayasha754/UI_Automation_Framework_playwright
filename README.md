@@ -12,11 +12,9 @@ The automation performs the following steps:
 4. Assert both checkboxes are checked at the end
 
 🚀 Setup
+
 Prerequisites
-
-Node.js (v18 or higher)
-npm
-
+Node.js (v18 or higher), npm
 
 Installation
 
