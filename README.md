@@ -35,3 +35,8 @@ npx playwright test
 
 Run in headed mode (see browser):
 npx playwright test --headed
+
+Test results:
+<img width="1021" height="359" alt="image" src="https://github.com/user-attachments/assets/93cec1be-ce77-43ac-9bcf-29317dcf967a" />
+<img width="1031" height="567" alt="image" src="https://github.com/user-attachments/assets/05a143b6-5aa5-4918-84a8-651ba25095b6" />
+
