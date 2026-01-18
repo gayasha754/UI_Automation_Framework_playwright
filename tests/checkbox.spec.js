@@ -1,14 +1,14 @@
 import { test, expect } from '@playwright/test';
 import {checkboxPage} from '../pages/checkboxPage';
 
-test.describe('Checkbox Automation', () => {
+test.describe('Checkbox verification', () => {
 
   test.beforeEach(async ({ page }) => {
     // Navigate to the checkbox page before each test
     await page.goto('/checkboxes');
   });
 
-  test('has title', async ({ page }) => {
+  test('Verify that the checkboxes are checked', async ({ page }) => {
     const CheckboxPage = new checkboxPage(page);
 
     // Expect the title of the page to be correct
