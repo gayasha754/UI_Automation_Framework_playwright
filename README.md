@@ -1,12 +1,15 @@
 Checkbox Automation with Playwright
+
 This project automates checkbox interactions on The Internet - Checkboxes using Playwright with JavaScript.
+
 📋 Test Scenario
+
 The automation performs the following steps:
 
-Navigate to the checkboxes page
-Ensure the first checkbox is checked (toggle only if needed)
-Ensure the second checkbox is checked
-Assert both checkboxes are checked at the end
+1. Navigate to the checkboxes page
+2. Ensure the first checkbox is checked (toggle only if needed)
+3. Ensure the second checkbox is checked
+4. Assert both checkboxes are checked at the end
 
 🚀 Setup
 Prerequisites
